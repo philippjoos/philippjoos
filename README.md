@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @philippjoos, a 21y old Student from Switzerland, currently studying at Zurich University of applied science and also working parttime in a swiss hospital
-- 👀 I’m especially interested in coding with java and scripting with powershell!
-- 🌱 I’m currently learning java and python
-- 📫 You can reach me through mail philipp.joos@outlook.com
+### Hi there! 👋  
+
+I'm **@philippjoos**, a 21-year-old student from Switzerland, currently studying at **Zurich University of Applied Sciences** and working part-time in a Swiss hospital.  
+
+💻 Passionate about **Java development** and **PowerShell scripting**  
+📚 Currently learning **C** and **Python**  
+🔍 Always eager to explore new technologies and improve my coding skills  
+📬 Reach me at **philipp.joos@outlook.com**  
+
+Let's connect and build something great! 🚀
+
 
 
 
