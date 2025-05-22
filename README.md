@@ -2,7 +2,7 @@
 
 I'm **@philippjoos**, a 22-year-old student from Switzerland, currently studying at **Zurich University of Applied Sciences** and working part-time in IT.  
 
-💻 Passionate about **Java development** and **PowerShell scripting**  
+💻 Passionate about **Java development**,  **react/typescript** and **PowerShell scripting**  
 📚 Currently learning **C** and **Python**  
 🔍 Always eager to explore new technologies and improve my coding skills  
 📬 Reach me at **philipp.joos@outlook.com**  
