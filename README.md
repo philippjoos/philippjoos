@@ -1,6 +1,6 @@
 ### Hi there! 👋  
 
-I'm **@philippjoos**, a 21-year-old student from Switzerland, currently studying at **Zurich University of Applied Sciences** and working part-time in a Swiss hospital.  
+I'm **@philippjoos**, a 22-year-old student from Switzerland, currently studying at **Zurich University of Applied Sciences** and working part-time in a Swiss hospital.  
 
 💻 Passionate about **Java development** and **PowerShell scripting**  
 📚 Currently learning **C** and **Python**  
